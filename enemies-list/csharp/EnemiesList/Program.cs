@@ -56,7 +56,7 @@ List<Enemy> GetEnemies()
         },
         new Enemy {
             FirstName = "Leon",
-            LastName = "Peck",
+            LastName = "Flowers",
             Offenses = new List<string> {
                 "Keeps giving me a hotplate"
             },
