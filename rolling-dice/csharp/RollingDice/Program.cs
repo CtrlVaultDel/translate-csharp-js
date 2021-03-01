@@ -3,6 +3,7 @@
 Console.WriteLine("Let's roll some dice, baby!");
 Console.WriteLine("---------------------------");
 
+// "Rolls" a pair of dice 10 times
 for (int i = 0; i < 10; i++)
 {
     Die die1 = Roll();
